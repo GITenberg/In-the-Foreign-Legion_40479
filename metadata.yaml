@@ -15,6 +15,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/40241
     wikipedia: http://en.wikipedia.org/wiki/Erwin_Rosen
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/40479#In-the-Foreign-Legion
 gutenberg_issued: '2012-08-11'
 gutenberg_type: Text
 identifiers:
