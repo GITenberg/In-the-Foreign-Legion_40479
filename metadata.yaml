@@ -1,0 +1,32 @@
+_repo: In-the-Foreign-Legion_40479
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 40479-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Rosen, Erwin
+    aliases:
+    - Carle, Erwin
+    - Carlé, Erwin
+    birthdate: 1876
+    deathdate: 1923
+    gutenberg_agent_id: '40241'
+    url: http://www.gutenberg.org/2009/agents/40241
+    wikipedia: http://en.wikipedia.org/wiki/Erwin_Rosen
+description: ''
+gutenberg_issued: '2012-08-11'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '40479'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'UA'
+- !lcsh 'France. Armée. Légion étrangère'
+- !lcsh 'Rosen, Erwin, 1876-1923'
+- !lcsh 'Algeria -- History -- 1830-1962'
+title: In the Foreign Legion
+url: http://www.gutenberg.org/ebooks/40479
